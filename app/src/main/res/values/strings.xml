@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="activity3_name">My Profile</string>
+    <string name="activity2_name">About ALC</string>
+    <string name="track">Track: Android</string>
+    <string name="country">Country: Kenya</string>
+    <string name="email">Email: kobiaharris@gmail.com</string>
+    <string name="phoneNumber">Phone number: +254725477726</string>
+    <string name="username">Slack Username: kobia-harris</string>
+</resources>
